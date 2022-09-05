@@ -63,7 +63,7 @@ It's fine if you are unfamiliar with GitHub -- you only need the basics for now.
 
 ### Create an Onboarding Issue
 
-You are going to track your onboarding progress using a GitHub issue in the onboarding project.
+You are going to track your onboarding progress using a GitHub issue in the onboarding project. **The following link will give a 404 error if you have not been added to the relevant systems.**
 
 * Please go to: https://github.com/life-itself/onboarding/issues
 * Create your own issue and use it to track your Onboarding progress. Name it like `Onboarding {First Name} {Last Name} {Date}`
